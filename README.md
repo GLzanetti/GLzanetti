@@ -57,3 +57,4 @@ Responsável pela modelagem de banco de dados **SQL** e validações com **JavaS
 <a href="mailto:gabrielzanettigo@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+**E-mail:** [gabrielzanettigo@gmail.com](mailto:gabrielzanettigo@gmail.com)
