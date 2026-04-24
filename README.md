@@ -33,15 +33,15 @@
 
 ### 📂 Projetos em Destaque
 
-#### 🛒 [API Rest Carrinho de Compras](https://github.com/seu-usuario/api-carrinho)
+#### 🛒 [API Rest Carrinho de Compras]
 API RESTful desenvolvida com **Java 21** e **Spring Boot 3.x**.
 - Arquitetura em camadas (Controller, Service, Repository).
 - Documentação automatizada com Springdoc OpenAPI.
 
-#### 📱 [Eniac Academy - App Android](https://github.com/seu-usuario/eniac-academy)
+#### 📱 [Eniac Academy - App Android]
 Aplicativo para gestão de academias utilizando **XML** e **SQLite**.
 
-#### 🌐 [Site AVOG - Projeto ONG](https://github.com/seu-usuario/projeto-avog)
+#### 🌐 [Site AVOG - Projeto ONG]
 Responsável pela modelagem de banco de dados **SQL** e validações com **JavaScript**.
 
 ---
