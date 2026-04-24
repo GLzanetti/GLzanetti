@@ -33,16 +33,16 @@
 
 ### 📂 Projetos em Destaque
 
-#### 🛒 [API Rest Carrinho de Compras]
+#### 🛒 [API Rest Carrinho de Compras](https://github.com/GLzanetti/API_Rest_Carrinho_de_Compras)
 API RESTful desenvolvida com **Java 21** e **Spring Boot 3.x**.
 - Arquitetura em camadas (Controller, Service, Repository).
 - Documentação automatizada com Springdoc OpenAPI.
 
-#### 📱 [Eniac Academy - App Android]
+#### 📱 [Eniac Academy - App Android](https://github.com/GLzanetti/Eniac-Academy)
 Aplicativo para gestão de academias utilizando **XML** e **SQLite**.
 
-#### 🌐 [Site AVOG - Projeto ONG]
-Responsável pela modelagem de banco de dados **SQL** e validações com **JavaScript**.
+#### 🌐 [Projeto Gol Solidário](https://github.com/GLzanetti/ProjetoWebService)
+Responsável por desenvolver uma API Rest em **PHP** e fazendo testes de requisições pelo **Postman**.
 
 ---
 
