@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Lima Zanetti! 👋
 
 ### 🎓 Formação & Objetivos
-- **Estudante de Sistemas de Informação (5° semestre)** no Centro Universitário Eniac.
+- **Estudante de Sistemas de Informação (6° semestre)** no Centro Universitário Eniac.
 - **Objetivo:** Estágio em Desenvolvimento Backend, aplicando conhecimentos em Java e Cloud Computing.
 - **Inglês:** Nível Avançado (B2/C1).
 
