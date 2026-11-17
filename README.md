@@ -68,6 +68,18 @@ API RESTful com Java 21 e Spring Boot 3, arquitetura em camadas e documentação
 
 ---
 
+## 🤖 Como eu uso IA
+
+| Ferramenta | Para quê |
+|---|---|
+| **Claude / Claude Code** | Estudar, revisar código e documentação, e programar com agentes |
+| **Gemini** | Motor dos meus projetos: assistente por voz do Budgeting (Spring AI) e os agentes do README-IA |
+| **Antigravity** | Explorar desenvolvimento agêntico em IDE e linha de comando |
+
+> Trato a IA como parceira, não como piloto automático: valido o que ela gera e só entrego o que consigo explicar.
+
+---
+
 ## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Zanetti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-zanetti-/)
